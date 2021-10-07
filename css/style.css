@@ -1,0 +1,41 @@
+/**här fixade jag hur body skulle se ut**/
+body{
+    background-color: black;
+    margin: 100px;
+}
+/**här fixade jag hur h1 skulle se ut, fixade också border, margin och padding**/
+h1{
+    color: white;
+    border: 5px solid plum;
+    border-radius: 10px;
+    background-color: black;
+    margin-right: 970px;
+    padding-left: 7px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+
+/**här fixade jag hur h2 skulle se ut, fixade också border, margin och padding**/
+h2{
+    color: white;
+    border: 5px solid plum;
+    border-radius: 10px;
+    background-color: black;
+    margin-right: 970px;
+    padding-left: 7px;
+    padding-top: 5px;
+    padding-bottom: 3px; 
+}
+
+/**här fixade jag hur p skulle se ut, fixade också border, margin och padding**/
+p{
+    color: white;
+    border: 5px solid plum;
+    border-radius: 10px;
+    background-color: black;
+    margin-right: 970px;
+    font-size: large;
+    padding-left: 7px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+}
